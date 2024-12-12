@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: "class",
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -29,6 +30,12 @@ export default {
       },
       fontFamily: {
         Josefin: ["Josefin Sans", "sans-serif"]
+      },
+      backgroundImage: {
+        'desktop-light': "url('/public/images/bg-desktop-light.jpg')",
+        'desktop-dark': "url('/public/images/bg-desktop-dark.jpg')",
+        'mobile-light': "url('/public/images/bg-mobile-light.jpg')",
+        'mobile-dark': "url('/public/images/bg-mobile-dark.jpg')",
       }
     },
   },

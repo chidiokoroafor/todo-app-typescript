@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/todo-app-using-react-typescript-tailwind-css-J0e-8c4TFp)
+- Live Site URL: [Live site](https://todo-app-typescript-peach.vercel.app/)
 
 ### Built with
 
